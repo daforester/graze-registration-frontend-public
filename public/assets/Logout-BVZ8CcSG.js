@@ -1,1 +1,0 @@
-import{T as o,E as n,i as s,M as r,D as a,n as c}from"./index-L6yGOoF3.js";import{R as m}from"./userData-Bt6zPP2T.js";const u=()=>{o.getInstance().removeTokensByService("GrazeAPI"),m(),n.getInstance().emit("logout")},g=s({__name:"Logout",setup(e){return u(),r().push("/"),(t,i)=>(c(),a("h1",null,"Logout..."))}});export{g as default};
