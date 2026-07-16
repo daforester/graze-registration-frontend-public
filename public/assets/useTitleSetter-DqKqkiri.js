@@ -1,1 +1,0 @@
-import{ah as s}from"./index-C8e2YNsn.js";function i(e){const t=s(),n=r=>{t&&r&&t.emit("pageTitle",r)};return e&&n(e),{setPageTitle:n}}export{i as u};
