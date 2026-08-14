@@ -1,0 +1,1 @@
+import{c as a,ap as c}from"./index-QgkcIy9B.js";const p=(n,u,o=()=>n[r],s=e=>{u(`update:${r}`,e);const t=c();t!==null&&t.proxy!==null&&t.proxy.$forceUpdate()},r="modelValue")=>a({get(){return o()},set(e){return s(e)}});export{p as u};
