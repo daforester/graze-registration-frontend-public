@@ -1,0 +1,1 @@
+import{C as e,G as n}from"./canDo-db0uX6uE.js";const s=(a,r=void 0)=>a===void 0?!1:r===void 0?e(a,n.GROUP_TYPE_CONVENTION).ManageUsers:e(a,n.GROUP_TYPE_CONVENTION,r.ConventionUUID,r).ManageUsers;export{s as C};
