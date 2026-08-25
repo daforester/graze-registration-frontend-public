@@ -1,0 +1,1 @@
+import{i as o,r,w as c,D as l,n as i}from"./index-Z8d2wD9_.js";const p=["innerHTML"],_=o({__name:"HTML",props:{data:{},html:{}},setup(s){const t=s,n=r({html:""}),a=()=>{try{if(t.data){const e=JSON.parse(t.data);e&&(n.value=e)}else t.html&&(n.value={html:t.html})}catch{}};return a(),c(t,()=>{a()}),(e,m)=>(i(),l("div",{innerHTML:n.value.html},null,8,p))}});export{_};
