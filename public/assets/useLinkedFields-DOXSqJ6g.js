@@ -1,1 +1,0 @@
-import{u as i}from"./useConventionConfig-dgZSQWlv.js";const s="linked_fields",t=()=>({badge_name:"",forename:"",surname:"",dob:"",address:""}),d=async n=>{const{getConventionConfig:e}=i();return await e(n,s)||t()},a=async(n,e)=>{const{saveConventionConfig:o}=i();return await o(n,s,e)};function u(){return{getLinkedFields:d,saveLinkedFields:a,linkedFieldsKey:s}}export{u};
