@@ -1,0 +1,1 @@
+import{C as n,G as t}from"./canDo-CvwbRNGI.js";const r=(o=void 0,i=void 0)=>o===void 0?!1:i===void 0?n(o,t.GROUP_TYPE_CONVENTION).EditConvention:n(o,t.GROUP_TYPE_CONVENTION,i.ConventionUUID,i).EditConvention;export{r as C};
