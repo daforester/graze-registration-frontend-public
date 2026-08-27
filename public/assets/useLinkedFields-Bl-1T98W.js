@@ -1,1 +1,0 @@
-import{a as i}from"./useStripeConfig-LFd2PkND.js";const s="linked_fields",t=()=>({badge_name:"",forename:"",surname:"",dob:"",address:""}),a=async n=>{const{getConventionConfig:e}=i();return await e(n,s)||t()},d=async(n,e)=>{const{saveConventionConfig:o}=i();return await o(n,s,e)};function u(){return{getLinkedFields:a,saveLinkedFields:d,linkedFieldsKey:s}}export{u};
