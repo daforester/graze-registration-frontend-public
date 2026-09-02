@@ -1,1 +1,0 @@
-import{T as i}from"./ticket-Br3LEBP_.js";const m=e=>e.Type===i.TICKET_TYPE_GROUP?"mdi:mdi-group":e.Type===i.TICKET_TYPE_TICKET?e.RequiresAccommodation?"mdi:mdi-home":e.ComponentsRequired>0?"mdi:mdi-ticket-confirmation":"mdi:mdi-ticket":e.Type===i.TICKET_TYPE_TICKET_COMPONENT?"mdi:mdi-cog-outline":e.Type===i.TICKET_TYPE_ADD_ON?"mdi:mdi-home-plus":"mdi:mdi-help";export{m as t};
