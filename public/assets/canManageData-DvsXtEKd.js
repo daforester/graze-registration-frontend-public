@@ -1,0 +1,1 @@
+import{C as t,G as n}from"./canDo-BU5LICEW.js";const o=(a,r=void 0)=>a===void 0?!1:r===void 0?t(a,n.GROUP_TYPE_CONVENTION).DataManager:t(a,n.GROUP_TYPE_CONVENTION,r.ConventionUUID,r).DataManager,C=a=>a===void 0?!1:t(a,n.GROUP_TYPE_SYSTEM).DataManager;export{C,o as a};

@@ -1,0 +1,1 @@
+import{C as e,G as i}from"./canDo-BU5LICEW.js";const t=(o,r=void 0)=>o===void 0?!1:r===void 0?e(o,i.GROUP_TYPE_CONVENTION).LogViewer:e(o,i.GROUP_TYPE_CONVENTION,r.ConventionUUID,r).LogViewer,C=o=>o===void 0?!1:e(o,i.GROUP_TYPE_SYSTEM).LogViewer;export{t as C,C as a};
