@@ -1,1 +1,0 @@
-import{a as r}from"./index-DnKmysG3.js";const s=1e3*30,o=new Map;async function i(e){const n=r();try{const t=o.get(e);if(!t||t.timestamp<Date.now()-s)try{const a=await n.getConventionForms(e);return o.set(e,{timestamp:Date.now(),value:a}),a}catch{return}return t.value}catch{return}}export{i as u};
